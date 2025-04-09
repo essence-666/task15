@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPU Usage</title>
+    <script>
+        function updateCpuUsage() {
+            fetch('cpu_usage.txt')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('cpu-usage').innerText = data;
+                })
+                .catch(error => console.error('Error fetching CPU usage:', error));
+        }
+        setInterval(updateCpuUsage, 1000); // Обновлять каждую секунду
+    </script>
+</head>
+<body>
+    <h1>CPU Usage: <span id="cpu-usage">0%</span></h1>
+</body>
+</html>

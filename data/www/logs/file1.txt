@@ -1,0 +1,19 @@
+
+185.16.38.107 - - [02/Apr/2025:08:11:31 +0000] "GET / HTTP/1.1" 200 452 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" "-"
+204.76.203.18 - - [02/Apr/2025:08:12:09 +0000] "GET /hiddenbin/wind.arm HTTP/1.1" 404 162 "-" "-" "-"
+204.76.203.18 - - [02/Apr/2025:08:15:04 +0000] "GET /hiddenbin/wind.mpsl HTTP/1.1" 404 162 "-" "-" "-"
+147.185.132.147 - - [02/Apr/2025:08:15:52 +0000] "\x16\x03\x01\x00\xEE\x01\x00\x00\xEA\x03\x03\xDC*C\xB5\xA2\x8A1t\x03Y4\xCFXg\x04\xF0z\xFD\x86\xDD\x8B\xFB\xD7\xA7\x8D \x00\xB7Fl?\xA2 \x07\x8DE0\xFD\x1A\xD5\xD2#\xAA\xC0\x86/\xE3\xC7J\x09[^\x8D\x9E\xCF3m\xA7\xFB\x95\x1B\x01(^\xCD\x00&\xC0+\xC0/\xC0,\xC00\xCC\xA9\xCC\xA8\xC0\x09\xC0\x13\xC0" 400 166 "-" "-" "-"
+147.185.132.147 - - [02/Apr/2025:08:15:52 +0000] "\x16\x03\x01\x00\xCA\x01\x00\x00\xC6\x03\x03\xEF.\xBB\xC8\xB7\xA25\x92\xA0\xC4Dq\x8E|\xB7\xCFcqA\x05n\x13}\xA4\x8B\x5C\x04\xAD\xB1\xDC\xA7\xC3\x00\x00h\xCC\x14\xCC\x13\xC0/\xC0+\xC00\xC0,\xC0\x11\xC0\x07\xC0'\xC0#\xC0\x13\xC0\x09\xC0(\xC0$\xC0\x14\xC0" 400 166 "-" "-" "-"
+204.76.203.18 - - [02/Apr/2025:08:19:49 +0000] "GET /hiddenbin/wind.arm6 HTTP/1.1" 404 162 "-" "-" "-"
+185.16.38.107 - - [02/Apr/2025:08:21:50 +0000] "GET / HTTP/1.1" 200 452 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" "-"
+204.76.203.18 - - [02/Apr/2025:08:24:03 +0000] "GET /.a/gdb HTTP/1.1" 404 162 "-" "-" "-"
+204.76.203.18 - - [02/Apr/2025:08:24:04 +0000] "GET /.a/gdb HTTP/1.1" 404 162 "-" "-" "-"
+204.76.203.18 - - [02/Apr/2025:08:24:56 +0000] "GET /.a/busybox HTTP/1.1" 404 162 "-" "-" "-"
+154.81.156.34 - - [02/Apr/2025:08:28:52 +0000] "GET / HTTP/1.1" 200 10671 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46" "-"
+204.76.203.18 - - [02/Apr/2025:08:28:54 +0000] "GET /ss/armv5l HTTP/1.1" 404 162 "-" "-" "-"
+2025/04/02 08:30:33 [crit] 448#448: *25511 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 5.34.178.101, server: 0.0.0.0:443
+2025/04/02 08:32:15 [crit] 448#448: *25515 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 5.181.27.147, server: 0.0.0.0:443
+204.76.203.18 - - [02/Apr/2025:08:34:03 +0000] "GET /ss/armv6l HTTP/1.1" 404 162 "-" "-" "-"
+99.50.127.17 - - [02/Apr/2025:08:35:23 +0000] "GET / HTTP/1.0" 200 10671 "-" "curl/7.88.1" "-"
+204.76.203.18 - - [02/Apr/2025:08:37:47 +0000] "GET /ss/armv4eb HTTP/1.1" 404 162 "-" "-" "-"
+204.76.203.18 - - [02/Apr/2025:08:40:25 +0000] "GET /.a/socat HTTP/1.1" 404 162 "-" "-" "-"

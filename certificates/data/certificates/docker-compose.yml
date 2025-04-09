@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  certbot:
+    image: certbot/certbot
+    container_name: certbot
+    volumes:
+      - .:/etc/letsencrypt 
+      - ./dist:/data/www              
+    command: certonly --webroot --webroot-path=/data/www --email 6ejlo3epobnt@gmail.com --agree-tos --no-eff-email -d aquaf1na.fun

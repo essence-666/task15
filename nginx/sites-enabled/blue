@@ -1,0 +1,12 @@
+server {
+	server_name localhost;
+	listen 82;
+	
+	root /data/www;
+	
+	location /redblue {
+		try_files $uri $uri/blue.html = 404;
+	}
+
+
+}

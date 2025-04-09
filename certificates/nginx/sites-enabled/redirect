@@ -1,0 +1,9 @@
+#server {
+#	server_name aquaf1na.fun;
+#	listen 80;
+	
+#	location / {
+#		root /data/www;
+#		index index.html;
+#	}
+#}

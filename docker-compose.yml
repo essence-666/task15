@@ -1,0 +1,10 @@
+services:
+  nginx:
+    image: essence666/nginx-image-filter
+    container_name: nginx
+    volumes:
+      - ./certificates:/etc/nginx/certificates:ro
+      # for renew certs
+      - ./data/www:/data/www
+
+    
